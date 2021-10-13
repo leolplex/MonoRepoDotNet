@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="wiremock.net" Version="1.4.23" />
+    <PackageReference Include="wiremock.net.openapiparser" Version="1.4.23" />
+  </ItemGroup>
+
+</Project>
