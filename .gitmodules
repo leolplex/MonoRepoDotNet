@@ -1,0 +1,3 @@
+[submodule "ConsoleDotNet1"]
+	path = ConsoleDotNet1
+	url = https://github.com/leolplex/ConsoleDotNet1.git
